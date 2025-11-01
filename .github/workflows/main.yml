@@ -6,7 +6,7 @@ on:
       - main  # Runs this workflow when you push to the main branch
 
 env:
-  IMAGE_NAME: todo-list-app
+  IMAGE_NAME: git-repo
   AWS_REGION: us-east-1 # change if needed
 
 jobs:
